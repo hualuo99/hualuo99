@@ -49,7 +49,7 @@ I’m a **Full-Stack AI Engineer** passionate about building intelligent systems
 
 Feel free to reach out if you want to collaborate or just want to talk about AI engineering and development!
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:你的邮箱)
+[![Email]([https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white](https://mail.qq.com/cgi-bin/frame_html?sid=F5w8HyYbBF8BZjBY&r=4b902bf90fe3c09a768ac8bd46151863&lang=zh))](mailto:你的邮箱)
 
 ---
 
