@@ -1,34 +1,20 @@
-<div id="title" align=center>
+<div id="title"   “标题” align   对齐=center   中心>
 
-![Modern C++ template][github-sub-title:img]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hualuo99&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
-#[![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yello)](https://space.bilibili.com/10065840?spm_id_from=333.1007.0.0)
-#[![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
-
-[![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
-![](https://img.shields.io/badge/讨厌-学习-yellow) 
-![](https://img.shields.io/badge/性格-开朗-red) 
-![](https://img.shields.io/badge/爱好-二次元-red)
 
 </div>
 
-#![头像](image/头像.jpg)
-
-![Visitor Count](https://profile-counter.glitch.me/hualuo99/count.svg)
-
-#[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=hualuo99.
 
 # Hi, I'm 凋零花落 👋
 
-I’m a **Full-Stack AI Engineer** passionate about building intelligent systems that integrate data processing, model training, deployment, and user interaction across multiple AI domains.
+I’m a **Full-Stack AI Engineer** passionate about building intelligent systems that integrate data processing, model training, deployment, and user interaction across multiple AI domains.我是一名全栈AI工程师，热衷于构建跨多个AI领域集成数据处理、模型训练、部署和用户交互的智能系统。
 
 ---
 
-## 🛠️ My Expertise
+## 🛠️ My Expertise   ##推荐️我的专长
 
-### Core Programming & Development
+### Core Programming & Development核心编程和开发
 - Python (full-stack development for data processing, AI model training, backend services, and GUI)
 - Web frameworks: Flask (RESTful API development)
 - GUI development: PySide6 (cross-platform desktop applications)
