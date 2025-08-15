@@ -1,7 +1,7 @@
-<div id="title"   “标题” align   对齐=center   中心>
+<div id="title"   “标题”   “标题” align   对齐   对齐=center   中心   中心>
 
 
-
+[![Anurag's GitHub stats   Anurag的GitHub统计](https://github-readme-stats.vercel.app/api?username=hualuo99&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
 </div>
 
@@ -15,16 +15,16 @@ I’m a **Full-Stack AI Engineer** passionate about building intelligent systems
 ## 🛠️ My Expertise   ##推荐️我的专长
 
 ### Core Programming & Development核心编程和开发
-- Python (full-stack development for data processing, AI model training, backend services, and GUI)
-- Web frameworks: Flask (RESTful API development)
-- GUI development: PySide6 (cross-platform desktop applications)
-- Asynchronous processing: Celery, Redis
-- Containerization & Deployment: Docker, Gunicorn, Nginx
+- Python (full-stack development for data processing, AI model training, backend services, and GUI)- Python（全栈开发，用于数据处理、AI模型训练、后端服务和GUI）
+- Web frameworks: Flask (RESTful API development)- Web框架：Flask （RESTful API开发）
+- GUI development: PySide6 (cross-platform desktop applications)- GUI开发：PySide6（跨平台桌面应用程序）
+- Asynchronous processing: Celery, Redis-异步处理：芹菜，Redis
+- Containerization & Deployment: Docker, Gunicorn, Nginx-容器化和部署：Docker， Gunicorn, Nginx
 
-### Artificial Intelligence & Machine Learning
-- Deep Learning Frameworks: PyTorch, TorchVision, Transformers (NLP)
-- Model Optimization: LoRA, QLoRA, quantization (BitsAndBytes INT8/4), mixed precision (FP16/BF16), NVIDIA CUDA acceleration
-- Computer Vision: YOLOv8 (object detection), OCR, OpenCV, Pillow
+### Artificial Intelligence & Machine Learning人工智能和机器学习
+- Deep Learning Frameworks: PyTorch, TorchVision, Transformers (NLP)深度学习框架：PyTorch， TorchVision, Transformers （NLP）
+- Model Optimization: LoRA, QLoRA, quantization (BitsAndBytes INT8/4), mixed precision (FP16/BF16), NVIDIA CUDA acceleration-模型优化：LoRA， QLoRA，量化（BitsAndBytes INT8/4），混合精度（FP16/BF16）， NVIDIA CUDA加速
+- Computer Vision: YOLOv8 (object detection), OCR, OpenCV, Pillow-计算机视觉：YOLOv8（对象检测），OCR, OpenCV, Pillow
 - Natural Language Processing: Vanna (RAG-based NL2SQL), Faster-Whisper (speech recognition)
 - Multimodal Generation: Stable Diffusion (ComfyUI visual interface)
 
