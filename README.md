@@ -1,8 +1,5 @@
 <div id="title"   “标题”   “标题” align   对齐   对齐=center   中心   中心>
 
-
-[![Anurag's GitHub stats   Anurag的GitHub统计](https://github-readme-stats.vercel.app/api?username=hualuo99&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
-
 </div>
 
 
