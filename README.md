@@ -9,7 +9,7 @@ I’m a **Full-Stack AI Engineer** passionate about building intelligent systems
 ---
 
 ## 🛠️ My Expertise   ##推荐️我的专长
-PS:因为项目都是闭源所以没有star，(保密协议)
+PS:因为项目都是闭源所以没有star
 ### Core Programming & Development核心编程和开发
 - Python (full-stack development for data processing, AI model training, backend services, and GUI)- Python（全栈开发，用于数据处理、AI模型训练、后端服务和GUI）
 - Web frameworks: Flask (RESTful API development)- Web框架：Flask （RESTful API开发）
